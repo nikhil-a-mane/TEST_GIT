@@ -3,9 +3,9 @@
  *
  * Code generated for Simulink model 'TEST_FOR_GIT'.
  *
- * Model version                  : 1.4
+ * Model version                  : 1.6
  * Simulink Coder version         : 24.2 (R2024b) 21-Jun-2024
- * C/C++ source code generated on : Wed Jul  2 18:40:23 2025
+ * C/C++ source code generated on : Thu Jul  3 08:27:24 2025
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Intel->x86-64 (Windows64)
